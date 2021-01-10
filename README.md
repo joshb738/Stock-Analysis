@@ -6,15 +6,14 @@
 The following analysis was performed to analyze stock tickers
 
 ### Results
-1. 2017 Results
-   a) Original Code
-   b) Refactored Code
 
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+1. 2017 Results
+   1. Original Code
+   1. Refactored Code
+2. 2018 Results
+   2. Original Code
+   2. Refactored Code
+
 
 ### Summary
 
