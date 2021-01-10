@@ -1,15 +1,15 @@
 ## Stock Analysis
 
-### Project Overview
+## Project Overview
 
-## Purpose
+### Purpose
 The following analysis was performed to a
 
-## Results
+### Results
 
 
 
-## Summary
+### Summary
 
 1. There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
   
