@@ -22,9 +22,14 @@ The following analysis was performed to analyze stock tickers
 2. **2018 Results**
    
    1. **Original Code**
+   <p align="left">
+   <img src="Resources/2018_Stock_Analysis_Original.PNG">
+   </p>
    
    1. **Refactored Code**
-
+   <p align="left">
+   <img src="Resources/2018_Stock_Analysis_Refactored.PNG">
+   </p>
 
 ### Summary
 
