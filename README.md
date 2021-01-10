@@ -3,10 +3,11 @@
 ## Project Overview
 
 ### Purpose
-The following analysis was performed to a
+The following analysis was performed to analyze stock tickers
 
 ### Results
-
+1.a) 2017 Stock Analysis Original
+  b) 2017
 
 
 ### Summary
