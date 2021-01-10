@@ -6,8 +6,9 @@
 The following analysis was performed to analyze stock tickers
 
 ### Results
-1.a) 2017 Stock Analysis Original
-  b) 2017
+1. 2017 Results
+   a) Original Code
+   b) Refactored Code
 
 
 ### Summary
