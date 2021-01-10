@@ -10,6 +10,11 @@ The following analysis was performed to analyze stock tickers
    a) Original Code
    b) Refactored Code
 
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
 
 ### Summary
 
