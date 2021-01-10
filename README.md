@@ -13,7 +13,7 @@ The following analysis was performed to analyze stock tickers
    <p align="left">
    <img src="Resources/2017_Stock_Analysis_Original.PNG">
    </p>
-   1. *Refactored Code
+   1. Refactored Code
    <p align="left">
    <img src="Resources/2017_Stock_Analysis_Refactored.PNG">
    </p>
