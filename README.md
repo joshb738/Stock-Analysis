@@ -8,12 +8,12 @@ The following analysis was performed to analyze stock tickers
 ### Results
 
 1. **2017 Results**
-   
-   1. **Original Code**
+
+   a) **Original Code**
    <p align="left">
    <img src="Resources/2017_Stock_Analysis_Original.PNG">
    </p>
-   1. **Refactored Code**
+   b) **Refactored Code**
    <p align="left">
    <img src="Resources/2017_Stock_Analysis_Refactored.PNG">
    </p>
