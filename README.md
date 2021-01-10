@@ -11,11 +11,11 @@ The following analysis was performed to analyze stock tickers
    
    1. **Original Code**
    <p align="center">
-   <img src="" width="700"/>
+   <img src="2017_Stock_Analysis_Original.PNG" width="700"/>
    </p>
    1. **Refactored Code**
    <p align="center">
-   <img src="" width="700"/>
+   <img src="2017_Stock_Analysis_Refactored.PNG" width="700"/>
    </p>
    
 2. **2018 Results**
