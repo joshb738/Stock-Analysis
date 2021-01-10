@@ -11,24 +11,24 @@ The following analysis was performed to analyze stock tickers
 
    a) **Original Code**
    <p align="left">
-   <img src="Resources/2017_Stock_Analysis_Original.PNG">
+   <img src="Resources/VBA_Challenge_2017_Original.PNG">
    </p>
    
    b) **Refactored Code**
    <p align="left">
-   <img src="Resources/2017_Stock_Analysis_Refactored.PNG">
+   <img src="Resources/VBA_Challenge_2017_Refactored.PNG">
    </p>
    
 2. **2018 Results**
    
    a) **Original Code**
    <p align="left">
-   <img src="Resources/2018_Stock_Analysis_Original.PNG">
+   <img src="Resources/VBA_Challenge_2018_Original.PNG">
    </p>
    
    b) **Refactored Code**
    <p align="left">
-   <img src="Resources/2018_Stock_Analysis_Refactored.PNG">
+   <img src="Resources/VBA_Challenge_2018_Refactored.PNG">
    </p>
 
 ### Summary
