@@ -15,7 +15,7 @@ The following analysis was performed to analyze stock tickers
    </p>
    1. **Refactored Code**
    <p align="center">
-   <img src="2017_Stock_Analysis_Refactored.PNG" width="700"/>
+   <img src="Resources/2017_Stock_Analysis_Refactored.PNG">
    </p>
    
 2. **2018 Results**
