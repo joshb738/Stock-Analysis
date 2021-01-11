@@ -7,8 +7,6 @@ The following analysis was completed to compare the annual performance of a sele
 
 ### Results
 
-##### Stock Perforamce
-
 1. **2017 Results**
    
    a) **Original Code**
@@ -50,4 +48,4 @@ The following analysis was completed to compare the annual performance of a sele
    - If the original code is not reusable, writing and developing new code can time consuming and lengthy process.
    - Writing new code enables room new errors, bugs, and other issues.
   
-3. As evident by the results of the VBA script timer, refactoring the code for the stock analysis has provided a 91% average increase in program performance. This will allow the program to run efficiently if analysis for additional stock or years are required.
+3. As evident by the results of the VBA script timer, refactoring the code for the stock analysis has provided a 91% average increase in program performance. This will allow the program to run efficiently if analysis for additional stock tickers or years are required. However, as additional stock tickers are added, amendments to the variables in Marco code will be required.
