@@ -34,7 +34,7 @@ The following analysis was completed to compare the annual performance of a sele
    </p>
   
 #### Conclusion 
-  Based on the above results we can determine that the refactored code has provided the following:
+  Based on the above results we can determine that refactoring the code has provided the following:
   1. A **91.12%** increase in script run time performance for analyzing the **2017** results.
   2. A **90.67%** increase in script run time performance for analyzing the **2018** results.
   
@@ -42,13 +42,12 @@ The following analysis was completed to compare the annual performance of a sele
 
 1. Advantages of refactoring code
    - Allows the code to process larger amounts of data in faster processing rate
-   - Improves the code design to simplify additions and extensions to the code
-   - Improves code run time efficiency 
+   - Improves the code design to simplify additions and extensions to the code if needed
+   - Improves code efficiency and run time
 
 2. Disadvantages of refactoring code
-   - Understanding and interpreting original code can be time consuming.
-   - If original code is not reusable, writing new code can also be a time consuming process.
-   - Writing new code anables room to encounter new bugs, errors and issues.
-
+   - Understanding and interpreting original code in order to make improvements can be time consuming.
+   - If the original code is not reusable, writing and developing new code can time consuming and lengthy process.
+   - Writing new code enables room new errors, bugs, and other issues.
   
 2. How do these pros and cons apply to refactoring the original VBA script?(3pt)
