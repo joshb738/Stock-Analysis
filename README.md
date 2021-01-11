@@ -10,6 +10,7 @@ The following analysis was completed to compare the annual performance of a sele
 ##### Stock Perforamce
 
 1. **2017 Results**
+   
    a) **Original Code**
    <p align="left">
    <img src="Resources/VBA_Challenge_2017_Original.PNG">
