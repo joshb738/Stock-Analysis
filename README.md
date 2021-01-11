@@ -34,7 +34,7 @@ The following analysis was completed to compare the annual performance of a sele
    </p>
   
 #### Conclusion 
-  Based on the above rseults we can determine that the refactored code has provided the following:
+  Based on the above results we can determine that the refactored code has provided the following:
   1. A **91.12%** increase in script run time performance for analyzing the **2017** results.
   2. A **90.67%** increase in script run time performance for analyzing the **2018** results.
   
