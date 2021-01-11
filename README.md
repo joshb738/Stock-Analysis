@@ -32,10 +32,10 @@ The following analysis was completed to compare the annual performance of a sele
    <img src="Resources/VBA_Challenge_2018_Refactored.PNG">
    </p>
   
-####Conclusion 
-  Based on the above findings we can determing that the refactored code has provided:
-  1. A 91.12% increase in performance for the 2017 results
-  2. 
+#### Conclusion 
+  Based on the above rseults we can determine that the refactored code has provided the following:
+  1. A **91.12%** increase in script run time performance for analyzing the 2017 results.
+  2. A **90.67%** increase in script run time performance for analyzing the 2018 results.
   
 ### Summary
 
